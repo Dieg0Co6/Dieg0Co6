@@ -75,28 +75,24 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dieg0Co6&theme=dark)](https://git.io/streak-stats)
+<td width="50%" align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dieg0Co6&theme=nord_dark)
+
 </td>
 
+<td width="50%" align="center">
 
-<td width="40%" align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dieg0Co6&theme=nord_dark)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dieg0Co6&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
 
-  </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-
-</p>        
+</p>      
 <!--- stats (end) -->
 
 
